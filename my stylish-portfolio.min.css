@@ -329,6 +329,11 @@ a:hover {
     border-color: #1d809f !important;
     color: #fff !important
 }
+.btn-primary1 {
+    background-color: #FF5A5A!important;
+    border-color: #FF5A5A !important;
+    color: #fff !important
+}
 
 .btn-primary:active,
 .btn-primary:focus,
@@ -384,9 +389,6 @@ a:hover {
     text-align: center;
 }
 
-.bottom-img{
-    text-align:center}
-        
 img{
     width: 90%;
     height: 90%;
